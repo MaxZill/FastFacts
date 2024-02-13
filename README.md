@@ -1,2 +1,2 @@
-# randomCatFacts
-randomCatFacts
+# FastFacts
+FastFacts
